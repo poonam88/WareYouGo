@@ -1,0 +1,3 @@
+Widget,12345,100,Tools
+Gadget,67890,50,Electronics
+Thingamajig,54321,75,Accessories
