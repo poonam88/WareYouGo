@@ -1,0 +1,102 @@
+﻿Item Name,Item ID,Category,Hyderabad,Mumbai,Bangalore,Chennai,Kolkata,Delhi,Bhopal,Guwahati,Price (INR),Total Quantity
+Bosch Mobile Phone Model A,100001,Mobile Phones,10,8,5,7,6,4,5,3,15000,48
+Bosch Mobile Phone Model B,100002,Mobile Phones,12,10,8,6,5,5,4,4,20000,54
+Bosch Mobile Phone Model C,100003,Mobile Phones,9,7,6,4,5,3,2,2,18000,38
+Bosch Mobile Phone Model D,100004,Mobile Phones,15,12,10,8,6,5,3,3,22000,62
+Bosch Mobile Phone Model E,100005,Mobile Phones,8,6,5,4,3,2,2,1,17000,31
+Bosch Laptop Model A,100006,Laptops,5,4,3,2,2,1,1,1,45000,19
+Bosch Laptop Model B,100007,Laptops,8,6,5,4,3,3,2,1,50000,32
+Bosch Laptop Model C,100008,Laptops,12,10,8,7,6,4,5,3,55000,55
+Bosch Laptop Model D,100009,Laptops,7,5,4,3,2,2,2,1,48000,26
+Bosch Printer Model A,100010,Printers,15,12,10,9,8,7,6,5,10000,72
+Bosch Printer Model B,100011,Printers,5,4,3,2,2,2,1,1,12000,20
+Bosch TV Model A,100012,TVs,10,8,6,5,4,3,3,2,30000,41
+Bosch Washing Machine Model A,100013,Washing Machines,8,7,6,5,4,3,2,2,25000,37
+Bosch Washing Machine Model B,100014,Washing Machines,10,9,8,7,6,5,4,3,27000,52
+Bosch Electric Kettle,100015,Kitchen Appliances,20,18,15,12,10,8,6,4,1500,93
+Bosch Toaster,100016,Kitchen Appliances,18,15,12,10,8,6,4,3,2000,76
+Bosch Mixer Grinder,100017,Kitchen Appliances,12,10,9,8,7,6,5,4,3000,61
+Bosch Blender,100018,Kitchen Appliances,10,8,7,6,5,4,3,3,2500,46
+Bosch Food Processor,100019,Kitchen Appliances,7,6,5,4,3,2,1,1,4000,29
+Bosch Air Fryer,100020,Kitchen Appliances,6,5,4,3,2,1,1,1,6000,23
+Bosch Coffee Maker,100021,Kitchen Appliances,8,7,6,5,4,3,2,2,3000,37
+Bosch Dishwasher,100022,Kitchen Appliances,4,3,2,2,2,1,1,1,20000,16
+Bosch Electric Oven,100023,Kitchen Appliances,5,4,3,3,2,2,1,1,15000,21
+Bosch Induction Cooktop,100024,Kitchen Appliances,3,3,2,2,2,1,1,1,18000,15
+Bosch Gas Stove,100025,Kitchen Appliances,8,7,6,5,4,3,3,2,10000,38
+Bosch Wall Oven,100026,Kitchen Appliances,4,3,2,2,1,1,1,1,22000,15
+Bosch Air Purifier,100027,Appliances,15,12,10,8,6,5,4,3,5000,63
+Bosch Vacuum Cleaner,100028,Appliances,7,6,5,4,3,3,2,2,7000,32
+Bosch Electric Blanket,100029,Appliances,10,8,7,6,5,4,3,2,4000,45
+Bosch Electric Hair Dryer,100030,Appliances,12,10,9,8,7,6,5,4,3500,61
+Bosch Hair Straightener,100031,Appliances,9,8,7,6,5,4,3,2,3000,44
+Bosch Water Heater,100032,Appliances,10,9,8,7,6,5,4,3,6000,52
+Bosch Electric Shower,100033,Appliances,6,5,4,3,2,2,1,1,5000,24
+Bosch Blender with Grinder,100034,Kitchen Appliances,8,6,5,4,3,3,2,1,3000,32
+Bosch Countertop Oven,100035,Kitchen Appliances,5,4,3,2,2,2,1,1,10000,20
+Bosch Rice Cooker,100036,Kitchen Appliances,10,9,8,7,6,5,4,3,2500,52
+Bosch Deep Fryer,100037,Kitchen Appliances,7,6,5,4,3,2,1,1,3500,29
+Bosch Laser Level,100038,Measuring Tools,15,12,10,8,5,6,4,3,2500,63
+Bosch Corded Electric Router,100039,Power Tools,7,5,6,4,3,4,2,2,6500,33
+Bosch Garden Sprayer,100040,Garden Tools,9,8,7,5,4,5,3,3,3000,44
+Bosch Hedge Trimmer,100041,Garden Tools,6,5,4,3,3,2,1,1,4500,25
+Bosch Electric Lawn Mower,100042,Garden Tools,4,3,3,2,2,2,1,1,25000,18
+Bosch Portable Generator,100043,Power Tools,3,4,2,3,1,1,1,1,35000,16
+Bosch Angle Grinder with Diamond Blade,100044,Power Tools,10,8,7,6,5,5,3,2,6000,46
+Bosch Tile Cutter,100045,Power Tools,6,5,4,4,3,3,2,2,4500,29
+Bosch Digital Angle Finder,100046,Measuring Tools,8,7,6,5,4,3,3,1,2000,37
+Bosch Cordless Hammer Drill,100047,Power Tools,7,6,5,4,3,2,1,1,6000,29
+Bosch Workbench,100048,Workshop Equipment,5,4,3,2,2,2,1,1,8000,20
+Bosch Folding Saw,100049,Power Tools,10,8,7,6,5,4,3,3,1500,46
+Bosch Tool Organizer,100050,Workshop Equipment,12,10,8,6,5,4,3,2,3000,50
+Bosch Claw Hammer,100051,Hand Tools,20,15,12,10,8,7,5,4,600,81
+Bosch Screwdriver Set - 6 Pieces,100052,Hand Tools,15,10,9,8,6,5,3,3,800,59
+Bosch Pliers Set - 3 Pieces,100053,Hand Tools,18,15,12,10,8,7,5,5,1200,80
+Bosch Safety Goggles,100054,Safety Equipment,25,20,18,15,12,10,8,6,500,114
+Bosch Ear Protection Headphones,100055,Safety Equipment,20,18,15,12,10,8,6,5,1000,94
+Bosch Workshop Stool,100056,Workshop Equipment,10,8,6,5,4,3,2,1,3000,39
+Bosch Insulation Tape,100057,Construction Supplies,50,40,30,25,20,18,15,12,150,210
+Bosch Adhesive Tape,100058,Construction Supplies,60,50,40,35,30,25,20,15,200,275
+Bosch Paint Brush Set,100059,Painting Supplies,25,20,15,12,10,8,6,4,800,100
+Bosch Measuring Tape - 5 m,100060,Measuring Tools,30,25,20,15,12,10,8,6,300,126
+Bosch Laser Distance Measurer,100061,Measuring Tools,10,8,6,5,4,3,2,2,2000,40
+Bosch Water Pump,100062,Gardening Equipment,6,5,4,3,3,2,2,1,8000,26
+Bosch Wall Mounted Garden Hose Reel,100063,Gardening Equipment,8,7,6,5,4,3,3,2,3500,38
+Bosch Pruning Saw,100064,Gardening Tools,5,4,3,2,2,2,1,1,1200,20
+Bosch Garden Tiller,100065,Gardening Equipment,4,3,3,2,2,1,1,1,15000,17
+Bosch Plant Watering Spike,100066,Gardening Equipment,15,10,9,8,6,5,3,3,500,59
+Bosch Adjustable Wrench,100067,Hand Tools,12,10,8,6,5,4,3,2,800,50
+Bosch Leveling Laser,100068,Measuring Tools,9,7,5,4,3,3,2,1,5000,34
+Bosch Sledge Hammer,100069,Hand Tools,7,5,4,3,3,2,1,1,1500,26
+Bosch Rotary Hammer Drill,100070,Power Tools,5,4,3,3,2,2,1,1,8000,21
+Bosch Sanding Machine,100071,Power Tools,6,5,4,3,2,2,1,1,7000,24
+Bosch Electric Screwdriver,100072,Power Tools,8,7,6,5,4,3,3,2,3000,38
+Bosch Mini Fridge,100073,Appliances,3,2,2,1,1,1,1,1,15000,12
+Bosch Smart Watch,100038,Electronics,10,8,6,5,4,3,2,2,25000,40
+Bosch Fitness Tracker,100039,Electronics,15,12,10,8,6,5,4,3,3000,63
+Bosch Digital Camera,100040,Electronics,5,4,3,3,2,2,1,1,40000,21
+Bosch Projector,100041,Electronics,6,5,4,3,2,2,1,1,50000,24
+Bosch Home Theater System,100042,Electronics,7,6,5,4,3,3,2,2,35000,32
+Bosch Bluetooth Speaker,100043,Electronics,10,8,6,5,4,3,2,2,8000,40
+Bosch Air Conditioner,100044,Appliances,12,10,8,7,6,5,4,3,30000,55
+Bosch Refrigerator,100045,Appliances,5,4,3,3,2,2,1,1,25000,21
+Bosch Microwave Oven,100046,Appliances,10,8,6,5,4,3,2,2,12000,40
+Bosch Stand Mixer,100047,Kitchen Appliances,15,12,10,8,6,5,4,3,8000,63
+Bosch Sous Vide Cooker,100048,Kitchen Appliances,8,7,6,5,4,3,2,1,6000,36
+Bosch Electric Pressure Cooker,100049,Kitchen Appliances,6,5,4,3,2,1,1,1,7000,23
+Bosch Ice Cream Maker,100050,Kitchen Appliances,5,4,3,2,2,2,1,1,8000,20
+Bosch Sandwich Maker,100051,Kitchen Appliances,8,6,5,4,3,3,2,2,3000,33
+Bosch Food Steamer,100052,Kitchen Appliances,10,8,6,5,4,3,2,2,4000,40
+Bosch Induction Cooktop with Oven,100053,Kitchen Appliances,7,6,5,4,3,2,1,1,18000,29
+Bosch Hand Blender,100054,Kitchen Appliances,12,10,8,7,6,5,4,3,2500,55
+Bosch Milk Frother,100055,Kitchen Appliances,9,8,7,6,5,4,3,2,1500,44
+Bosch Popcorn Maker,100056,Kitchen Appliances,8,7,6,5,4,3,2,1,3000,36
+Bosch Slow Cooker,100057,Kitchen Appliances,10,9,8,7,6,5,4,3,5000,52
+Bosch Pressure Washer,100058,Appliances,6,5,4,3,2,2,1,1,20000,24
+Bosch Lawn Mower,100059,Outdoor Equipment,4,3,2,2,1,1,1,1,25000,15
+Bosch Hedge Trimmer,100060,Outdoor Equipment,5,4,3,3,2,2,1,1,18000,21
+Bosch Cordless Drill,100061,Tools,8,6,5,4,3,3,2,2,3500,33
+Bosch Screwdriver Set,100062,Tools,12,10,8,7,6,5,4,3,2000,55
+Bosch Tool Kit,100063,Tools,10,8,7,6,5,4,3,2,2500,45
+Bosch Laser Level,100064,Tools,6,5,4,3,2,2,1,1,3000,24
+Bosch Digital Measuring Tape,100065,Tools,8,7,6,5,4,3,2,2,1500,37
