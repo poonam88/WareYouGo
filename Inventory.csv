@@ -1,0 +1,102 @@
+﻿Item Name,Item ID,Category,Hyderabad,Mumbai,Bangalore,Chennai,Kolkata,Delhi,Bhopal,Guwahati,Price (INR),Total Quantity
+Bosch Mobile Phone Model A,100001,Mobile Phones,100,80,50,70,120,160,250,120,15000,950
+Bosch Mobile Phone Model B,100002,Mobile Phones,120,100,80,60,100,200,200,160,20000,1020
+Bosch Mobile Phone Model C,100003,Mobile Phones,90,70,60,40,100,120,100,80,18000,660
+Bosch Mobile Phone Model D,100004,Mobile Phones,150,120,100,80,120,200,150,120,22000,1040
+Bosch Mobile Phone Model E,100005,Mobile Phones,80,60,50,40,60,80,100,40,17000,510
+Bosch Laptop Model A,100006,Laptops,50,40,30,20,40,40,50,40,45000,310
+Bosch Laptop Model B,100007,Laptops,80,60,50,40,60,120,100,40,50000,550
+Bosch Laptop Model C,100008,Laptops,120,100,80,70,120,160,250,120,55000,1020
+Bosch Laptop Model D,100009,Laptops,70,50,40,30,40,80,100,40,48000,450
+Bosch Printer Model A,100010,Printers,150,120,100,90,160,280,300,200,10000,1400
+Bosch Printer Model B,100011,Printers,50,40,30,20,40,80,50,40,12000,350
+Bosch TV Model A,100012,TVs,100,80,60,50,80,120,150,80,30000,720
+Bosch Washing Machine Model A,100013,Washing Machines,80,70,60,50,80,120,100,80,25000,640
+Bosch Washing Machine Model B,100014,Washing Machines,100,90,80,70,120,200,200,120,27000,980
+Bosch Electric Kettle,100015,Kitchen Appliances,200,180,150,120,200,320,300,160,1500,1630
+Bosch Toaster,100016,Kitchen Appliances,180,150,120,100,160,240,200,120,2000,1270
+Bosch Mixer Grinder,100017,Kitchen Appliances,120,100,90,80,140,240,250,160,3000,1180
+Bosch Blender,100018,Kitchen Appliances,100,80,70,60,100,160,150,120,2500,840
+Bosch Food Processor,100019,Kitchen Appliances,70,60,50,40,60,80,50,40,4000,450
+Bosch Air Fryer,100020,Kitchen Appliances,60,50,40,30,40,40,50,40,6000,350
+Bosch Coffee Maker,100021,Kitchen Appliances,80,70,60,50,80,120,100,80,3000,640
+Bosch Dishwasher,100022,Kitchen Appliances,40,30,20,20,40,40,50,40,20000,280
+Bosch Electric Oven,100023,Kitchen Appliances,50,40,30,30,40,80,50,40,15000,360
+Bosch Induction Cooktop,100024,Kitchen Appliances,30,30,20,20,40,40,50,40,18000,270
+Bosch Gas Stove,100025,Kitchen Appliances,80,70,60,50,80,120,150,80,10000,690
+Bosch Wall Oven,100026,Kitchen Appliances,40,30,20,20,20,40,50,40,22000,260
+Bosch Air Purifier,100027,Appliances,150,120,100,80,120,200,200,120,5000,1090
+Bosch Vacuum Cleaner,100028,Appliances,70,60,50,40,60,120,100,80,7000,580
+Bosch Electric Blanket,100029,Appliances,100,80,70,60,100,160,150,80,4000,800
+Bosch Electric Hair Dryer,100030,Appliances,120,100,90,80,140,240,250,160,3500,1180
+Bosch Hair Straightener,100031,Appliances,90,80,70,60,100,160,150,80,3000,790
+Bosch Water Heater,100032,Appliances,100,90,80,70,120,200,200,120,6000,980
+Bosch Electric Shower,100033,Appliances,60,50,40,30,40,80,50,40,5000,390
+Bosch Blender with Grinder,100034,Kitchen Appliances,80,60,50,40,60,120,100,40,3000,550
+Bosch Countertop Oven,100035,Kitchen Appliances,50,40,30,20,40,80,50,40,10000,350
+Bosch Rice Cooker,100036,Kitchen Appliances,100,90,80,70,120,200,200,120,2500,980
+Bosch Deep Fryer,100037,Kitchen Appliances,70,60,50,40,60,80,50,40,3500,450
+Bosch Laser Level,100038,Measuring Tools,150,120,100,80,100,240,200,120,2500,1110
+Bosch Corded Electric Router,100039,Power Tools,70,50,60,40,60,160,100,80,6500,620
+Bosch Garden Sprayer,100040,Garden Tools,90,80,70,50,80,200,150,120,3000,840
+Bosch Hedge Trimmer,100041,Garden Tools,60,50,40,30,60,80,50,40,4500,410
+Bosch Electric Lawn Mower,100042,Garden Tools,40,30,30,20,40,80,50,40,25000,330
+Bosch Portable Generator,100043,Power Tools,30,40,20,30,20,40,50,40,35000,270
+Bosch Angle Grinder with Diamond Blade,100044,Power Tools,100,80,70,60,100,200,150,80,6000,840
+Bosch Tile Cutter,100045,Power Tools,60,50,40,40,60,120,100,80,4500,550
+Bosch Digital Angle Finder,100046,Measuring Tools,80,70,60,50,80,120,150,40,2000,650
+Bosch Cordless Hammer Drill,100047,Power Tools,70,60,50,40,60,80,50,40,6000,450
+Bosch Workbench,100048,Workshop Equipment,50,40,30,20,40,80,50,40,8000,350
+Bosch Folding Saw,100049,Power Tools,100,80,70,60,100,160,150,120,1500,840
+Bosch Tool Organizer,100050,Workshop Equipment,120,100,80,60,100,160,150,80,3000,850
+Bosch Claw Hammer,100051,Hand Tools,200,150,120,100,160,280,250,160,600,1420
+Bosch Screwdriver Set - 6 Pieces,100052,Hand Tools,150,100,90,80,120,200,150,120,800,1010
+Bosch Pliers Set - 3 Pieces,100053,Hand Tools,180,150,120,100,160,280,250,200,1200,1440
+Bosch Safety Goggles,100054,Safety Equipment,250,200,180,150,240,400,400,240,500,2060
+Bosch Ear Protection Headphones,100055,Safety Equipment,200,180,150,120,200,320,300,200,1000,1670
+Bosch Workshop Stool,100056,Workshop Equipment,100,80,60,50,80,120,100,40,3000,630
+Bosch Insulation Tape,100057,Construction Supplies,500,400,300,250,400,720,750,480,150,3800
+Bosch Adhesive Tape,100058,Construction Supplies,600,500,400,350,600,1000,1000,600,200,5050
+Bosch Paint Brush Set,100059,Painting Supplies,250,200,150,120,200,320,300,160,800,1700
+Bosch Measuring Tape - 5 m,100060,Measuring Tools,300,250,200,150,240,400,400,240,300,2180
+Bosch Laser Distance Measurer,100061,Measuring Tools,100,80,60,50,80,120,100,80,2000,670
+Bosch Water Pump,100062,Gardening Equipment,60,50,40,30,60,80,100,40,8000,460
+Bosch Wall Mounted Garden Hose Reel,100063,Gardening Equipment,80,70,60,50,80,120,150,80,3500,690
+Bosch Pruning Saw,100064,Gardening Tools,50,40,30,20,40,80,50,40,1200,350
+Bosch Garden Tiller,100065,Gardening Equipment,40,30,30,20,40,40,50,40,15000,290
+Bosch Plant Watering Spike,100066,Gardening Equipment,150,100,90,80,120,200,150,120,500,1010
+Bosch Adjustable Wrench,100067,Hand Tools,120,100,80,60,100,160,150,80,800,850
+Bosch Leveling Laser,100068,Measuring Tools,90,70,50,40,60,120,100,40,5000,570
+Bosch Sledge Hammer,100069,Hand Tools,70,50,40,30,60,80,50,40,1500,420
+Bosch Rotary Hammer Drill,100070,Power Tools,50,40,30,30,40,80,50,40,8000,360
+Bosch Sanding Machine,100071,Power Tools,60,50,40,30,40,80,50,40,7000,390
+Bosch Electric Screwdriver,100072,Power Tools,80,70,60,50,80,120,150,80,3000,690
+Bosch Mini Fridge,100073,Appliances,30,20,20,10,20,40,50,40,15000,230
+Bosch Smart Watch,100038,Electronics,100,80,60,50,80,120,100,80,25000,670
+Bosch Fitness Tracker,100039,Electronics,150,120,100,80,120,200,200,120,3000,1090
+Bosch Digital Camera,100040,Electronics,50,40,30,30,40,80,50,40,40000,360
+Bosch Projector,100041,Electronics,60,50,40,30,40,80,50,40,50000,390
+Bosch Home Theater System,100042,Electronics,70,60,50,40,60,120,100,80,35000,580
+Bosch Bluetooth Speaker,100043,Electronics,100,80,60,50,80,120,100,80,8000,670
+Bosch Air Conditioner,100044,Appliances,120,100,80,70,120,200,200,120,30000,1010
+Bosch Refrigerator,100045,Appliances,50,40,30,30,40,80,50,40,25000,360
+Bosch Microwave Oven,100046,Appliances,100,80,60,50,80,120,100,80,12000,670
+Bosch Stand Mixer,100047,Kitchen Appliances,150,120,100,80,120,200,200,120,8000,1090
+Bosch Sous Vide Cooker,100048,Kitchen Appliances,80,70,60,50,80,120,100,40,6000,600
+Bosch Electric Pressure Cooker,100049,Kitchen Appliances,60,50,40,30,40,40,50,40,7000,350
+Bosch Ice Cream Maker,100050,Kitchen Appliances,50,40,30,20,40,80,50,40,8000,350
+Bosch Sandwich Maker,100051,Kitchen Appliances,80,60,50,40,60,120,100,80,3000,590
+Bosch Food Steamer,100052,Kitchen Appliances,100,80,60,50,80,120,100,80,4000,670
+Bosch Induction Cooktop with Oven,100053,Kitchen Appliances,70,60,50,40,60,80,50,40,18000,450
+Bosch Hand Blender,100054,Kitchen Appliances,120,100,80,70,120,200,200,120,2500,1010
+Bosch Milk Frother,100055,Kitchen Appliances,90,80,70,60,100,160,150,80,1500,790
+Bosch Popcorn Maker,100056,Kitchen Appliances,80,70,60,50,80,120,100,40,3000,600
+Bosch Slow Cooker,100057,Kitchen Appliances,100,90,80,70,120,200,200,120,5000,980
+Bosch Pressure Washer,100058,Appliances,60,50,40,30,40,80,50,40,20000,390
+Bosch Lawn Mower,100059,Outdoor Equipment,40,30,20,20,20,40,50,40,25000,260
+Bosch Hedge Trimmer,100060,Outdoor Equipment,50,40,30,30,40,80,50,40,18000,360
+Bosch Cordless Drill,100061,Tools,80,60,50,40,60,120,100,80,3500,590
+Bosch Screwdriver Set,100062,Tools,120,100,80,70,120,200,200,120,2000,1010
+Bosch Tool Kit,100063,Tools,100,80,70,60,100,160,150,80,2500,800
+Bosch Laser Level,100064,Tools,60,50,40,30,40,80,50,40,3000,390
+Bosch Digital Measuring Tape,100065,Tools,80,70,60,50,80,120,100,80,1500,640
